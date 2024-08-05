@@ -7,7 +7,7 @@
 
 ## 🛠 Skills
 - **Programming Languages**: Python, R, SQL
-- **Data Analysis**: Pandas, NumPy, Scikit-Learn
+- **Data Analysis**: Pandas, NumPy, Scikit-Learn, PowerBI
 - **Frameworks**: TensorFlow, PyTorch (for predictive modeling in healthcare and finance)
 
 ### 💼 Professional Goals
