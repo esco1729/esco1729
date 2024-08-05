@@ -1,4 +1,4 @@
-# Hello, I'm NREH! 👋
+# Hello, I'm N. Rocío! 👋
 
 ## 🎓 About Me
 - 🎓 I'm currently studying **Applied Mathematics** at UVG.
