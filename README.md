@@ -11,6 +11,7 @@
 - **Frameworks**: TensorFlow, PyTorch (for predictive modeling in healthcare and finance)
 
 ### 💼 Professional Goals
+
 I aim to apply my knowledge of data warehousing and multidimensional models to develop scalable business intelligence solutions that help organizations make data-driven decisions. My goal is to not only master these technologies but also contribute to projects and discussions in data analytics.
 
 
