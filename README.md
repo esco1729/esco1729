@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm NREH! 👋
 
-<!--
-**esco1729/esco1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🎓 I'm currently studying **Applied Mathematics** at UVG.
+- 🌱 I’m currently learning **Data Engineering** and **Data Warehousing** techniques and tools 
+- 🔍 I'm passionate about applying mathematical concepts to solve problems in **Finance, Healthcare, and Business Intelligence**.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Programming Languages**: Python, R, SQL
+- **Data Analysis**: Pandas, NumPy, Scikit-Learn
+- **Frameworks**: TensorFlow, PyTorch (for predictive modeling in healthcare and finance)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
