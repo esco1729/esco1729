@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 - 🎓 I'm currently studying **Applied Mathematics** at UVG.
-- 🌱 I’m currently learning **Data Engineering** and **Data Warehousing** techniques and tools 
+- 🌱 I’m currently learning **Data Engineering** and **Data Analysis** techniques and tools 
 - 🔍 I'm passionate about applying mathematical concepts to solve problems in **Finance, Healthcare, and Business Intelligence**.
 
 ## 🛠 Skills
