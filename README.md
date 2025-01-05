@@ -6,12 +6,13 @@
 
 ---
 ## 🎓 About Me
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiOTZhYzFhMGY5OGQ5ZjE2M2YwYzFkYzBhZmZjOGQwMDgzYjk3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiOTZhYzFhMGY5OGQ5ZjE2M2YwYzFkYzBhZmZjOGQwMDgzYjk3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 🎯 Applied Mathematics student at **Universidad del Valle de Guatemala**
 - 🌱 Currently diving deep into **Data Engineering** and **Data Analysis**
 - 🔍 Passionate about **Mathematical Optimization and Modelling**
 ---
+
 ## 🛠️ Technical Stack
 
 ### 👩‍💻 Programming Languages
@@ -51,6 +52,7 @@
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </p>
+
 ---
 ## 📈 GitHub Stats
 
@@ -62,6 +64,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=esco1729&theme=radical" alt="GitHub Streak" />
 </div>
 ---
+
 ## 💼 Professional Goals
 
 I aim to leverage my expertise in:
@@ -71,6 +74,7 @@ I aim to leverage my expertise in:
 - 🤖 Machine learning implementation
 
 To develop solutions to make data-driven decisions. My journey involves continuous learning and improvement.
+
 ---
 ## 📫 Connect With Me
 <p align="left">
@@ -81,8 +85,8 @@ To develop solutions to make data-driven decisions. My journey involves continuo
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=esco1729&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
