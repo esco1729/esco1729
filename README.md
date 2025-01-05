@@ -75,7 +75,7 @@ I aim to leverage my expertise in:
 
 To develop solutions to make data-driven decisions. My journey involves continuous learning and improvement.
 
----
+
 ## 📫 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/nescher" target="_blank">
@@ -85,7 +85,7 @@ To develop solutions to make data-driven decisions. My journey involves continuo
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
----
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=esco1729&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
