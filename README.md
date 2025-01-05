@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </p>
 
----
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -63,7 +63,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=esco1729&theme=radical" alt="GitHub Streak" />
 </div>
----
+
 
 ## 💼 Professional Goals
 
