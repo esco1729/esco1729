@@ -4,13 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C93FF&center=true&vCenter=true&width=435&lines=Applied+Mathematics+Student;Data+Science+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
+---
 ## 🎓 About Me
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiOTZhYzFhMGY5OGQ5ZjE2M2YwYzFkYzBhZmZjOGQwMDgzYjk3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 🎯 Applied Mathematics student at **Universidad del Valle de Guatemala**
 - 🌱 Currently diving deep into **Data Engineering** and **Data Analysis**
 - 🔍 Passionate about **Mathematical Optimization and Modelling**
-
+---
 ## 🛠️ Technical Stack
 
 ### 👩‍💻 Programming Languages
@@ -36,6 +37,12 @@
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
+
+### Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=skyblue" />
+</p>
+
 ### 🚀 Frameworks & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -44,7 +51,7 @@
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </p>
-
+---
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -54,7 +61,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=esco1729&theme=radical" alt="GitHub Streak" />
 </div>
-
+---
 ## 💼 Professional Goals
 
 I aim to leverage my expertise in:
@@ -64,7 +71,7 @@ I aim to leverage my expertise in:
 - 🤖 Machine learning implementation
 
 To develop solutions to make data-driven decisions. My journey involves continuous learning and improvement.
-
+---
 ## 📫 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/nescher" target="_blank">
