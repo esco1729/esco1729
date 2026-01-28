@@ -42,6 +42,8 @@
 ### Databases
 <p align="left">
   <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=skyblue" />
+  <img src="https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=sqlserver&logoColor=skyblue" />
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=skyblue" />
 </p>
 
 ### 🚀 Frameworks & Tools
