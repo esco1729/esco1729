@@ -8,7 +8,7 @@
 ## 🎓 About Me
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiOTZhYzFhMGY5OGQ5ZjE2M2YwYzFkYzBhZmZjOGQwMDgzYjk3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-- 🎯 Applied Mathematics student at **Universidad del Valle de Guatemala**
+- 🎯 Applied Mathematics at **Universidad del Valle de Guatemala**
 - 🌱 Currently diving deep into **Data Science** and **Statistical Models** for Credit Risk, AML/KYC
 - 🔍 Passionate about **Mathematical Optimization and Modelling**
 ---
